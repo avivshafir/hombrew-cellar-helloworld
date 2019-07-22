@@ -27,6 +27,6 @@ class Helloworld < Formula
       puts 'thank you for using this tap'
     end
   
-  
+
   end
   
